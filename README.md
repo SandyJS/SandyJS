@@ -4,7 +4,7 @@
 
 You must have found my swamp!
 
-- But there is nothing here.
+- But here is nothing.
 - No, I'm serious, nothing.
 - All my content is here: https://github.com/tailsjs
 - But, I went to bed.
